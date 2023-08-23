@@ -1,0 +1,10 @@
+pip3 install 2captcha-python,selenium,twocaptcha,mysql.connector,pandas
+
+
+
+inputs1.csv is the inputs for site_1
+
+inputs.csv is the inputs for site_2
+
+
+Note : Use Chrome Driver According To Your Chrome Version

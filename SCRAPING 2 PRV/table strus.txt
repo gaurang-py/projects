@@ -1,0 +1,29 @@
+CREATE TABLE data ( application_number varchar(225),application_type varchar(255),date_of_filling varchar(225),application_name varchar(255), title_of_invention varchar(255),field_of_invention varchar(255),
+email varchar(225), add_email varchar(225),upd_email varchar(225),int_application_number varchar(225),int_filling_date varchar(225),priority_date varchar(225),req_for_exam_date varchar(225),publication_date varchar(225));
+
+ create table file1 (application_number varchar(255),no_files int, files_name varchar(9999) );
+
+create table trademark_full(
+trade_mark_no varchar(255),
+ class varchar(255),
+application_data varchar(255),
+ trade_mark varchar(255),
+prop_name varchar(255),
+as_on_date varchar(255),
+status varchar(255),
+office varchar(255),
+state varchar(255),
+country varchar(255),
+filling_mode varchar(255),
+applies_for varchar(255),
+category varchar(255),
+type varchar(255),
+user_details varchar(255),
+certificate_details varchar(255),
+valid_upto varchar(255),
+prop_add varchar(255),
+email varchar(255),
+attorny_name varchar(255),
+attorny_add varchar(255),
+good_services_details varchar(255));
+
